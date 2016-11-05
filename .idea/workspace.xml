@@ -20,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="breezometer.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/breezometer.py">
+      <file leaf-file-name="main_view.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main_view.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="54">
+              <caret line="4" column="118" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="118" />
               <folding />
             </state>
           </provider>
@@ -294,8 +294,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/breezometer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="126">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="118" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="118" />
           <folding />
         </state>
       </provider>

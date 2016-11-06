@@ -6,18 +6,9 @@
     <body>
 	<form method="post" action="{{ url_for('hello') }}">
         	<label for="locationTextField">Location</label>
-        	<input id="locationTextField" type="text" size="50">
+        	<input name= "location" id="locationTextField" type="text" size="50"/>
 		<input type="submit" value="Search Address"/>
 	</form>
-		
-
-        
-                 
-
-        
-
-
-
 	<script>
             function init() {
                 var input = document.getElementById('locationTextField');
